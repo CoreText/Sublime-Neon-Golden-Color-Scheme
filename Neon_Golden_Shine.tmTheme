@@ -7,13 +7,9 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Matt Morrison</string>
+	<string>Text_r Coretext</string>
 	<key>comment</key>
-	<string>Created by Matt Morrison @MattDMo mattdmo@pigimal.com
-            https:&#x2f;&#x2f;github.com&#x2f;MattDMo&#x2f;Neon-color-scheme
-            Check out https:&#x2f;&#x2f;github.com&#x2f;MattDMo&#x2f;PythonImproved for a better Python language definition
-            containing some of the scopes in this color scheme.
-    </string>
+	<string></string>
 	<key>name</key>
 	<string>Neon</string>
 	<key>settings</key>
@@ -87,7 +83,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8080FF</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -137,7 +133,7 @@
 				<key>foreground</key>
 				<string>#FFFF00</string>
 				<key>background</key>
-				<string>#FFFF001F</string>
+				<string>#FFFF000F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -152,7 +148,7 @@
 				<key>foreground</key>
 				<string>#FF0F6E</string>
 				<key>background</key>
-				<string>#FF0F6E1F</string>
+				<string>#FF0F6E0F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -274,7 +270,7 @@
 				<key>foreground</key>
 				<string>#8080FF</string>
 				<key>background</key>
-				<string>#8080FF1F</string>
+				<string>#8080FF0F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -285,7 +281,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FF0A311F</string>
+				<string>#FF0A310F</string>
 				<key>foreground</key>
 				<string>#FF0A31</string>
 			</dict>
@@ -322,7 +318,7 @@
 				<key>foreground</key>
 				<string>#08F4FF</string>
 				<key>background</key>
-				<string>#08F4FF1F</string>
+				<string>#08F4FF0F</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -405,7 +401,7 @@
 				<key>foreground</key>
 				<string>#13F7A4</string>
 				<key>background</key>
-				<string>#13F7A41F</string>
+				<string>#13F7A40F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -457,7 +453,7 @@
 				<key>fontStyle</key>
 				<string> italic</string>
 				<key>background</key>
-				<string>#3AAFFF1F</string>
+				<string>#3AAFFF0F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -478,10 +474,10 @@
 			<string>support.function.builtin</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#e8a8ffff</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -529,7 +525,7 @@
 				<key>foreground</key>
 				<string>#05FFFC</string>
 				<key>background</key>
-				<string>#05FFFC1F</string>
+				<string>#05FFFC0F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -540,7 +536,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#00FF001F</string>
+				<string>#00FF000F</string>
 				<key>foreground</key>
 				<string>#00FF00</string>
 			</dict>
@@ -566,7 +562,7 @@
 				<key>foreground</key>
 				<string>#FFFF00</string>
 				<key>background</key>
-				<string>#00FF801F</string>
+				<string>#00FF800F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -706,7 +702,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#370005ff</string>
+				<string>#370005</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1207,7 +1203,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold italic</string>
+				<string>bold  italic</string>
 				<key>foreground</key>
 				<string>#ff75c1ff</string>
 			</dict>
@@ -2272,7 +2268,7 @@
 				<key>fontStyle</key>
 				<string> italic</string>
 				<key>background</key>
-				<string>#FF05A61F</string>
+				<string>#FF05A60F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2664,7 +2660,7 @@
 				<key>foreground</key>
 				<string>#FFA725</string>
 				<key>background</key>
-				<string>#FFA7251F</string>
+				<string>#FFA7250F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2714,7 +2710,7 @@
 				<key>foreground</key>
 				<string>#00FF00</string>
 				<key>background</key>
-				<string>#00FF001F</string>
+				<string>#00FF000F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2753,7 +2749,7 @@
 				<key>fontStyle</key>
 				<string> bold</string>
 				<key>background</key>
-				<string>#FF0F6E1F</string>
+				<string>#FF0F6E0F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2805,7 +2801,7 @@
 				<key>fontStyle</key>
 				<string> bold</string>
 				<key>background</key>
-				<string>#FF0F6E1F</string>
+				<string>#FF0F6E0F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2827,7 +2823,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0FFFFF1F</string>
+				<string>#0FFFFF0F</string>
 				<key>foreground</key>
 				<string>#0FFFFF</string>
 			</dict>
@@ -2853,7 +2849,7 @@
 				<key>foreground</key>
 				<string>#FF0A31</string>
 				<key>background</key>
-				<string>#FF0A311F</string>
+				<string>#FF0A310F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2866,7 +2862,7 @@
 				<key>foreground</key>
 				<string>#FFFF00</string>
 				<key>background</key>
-				<string>#FFFF001F</string>
+				<string>#FFFF000F</string>
 				<key>fontStyle</key>
 				<string> bold</string>
 			</dict>
@@ -2881,7 +2877,7 @@
 				<key>foreground</key>
 				<string>#FF9002</string>
 				<key>background</key>
-				<string>#FF90021F</string>
+				<string>#FF90020F</string>
 				<key>fontStyle</key>
 				<string> bold</string>
 			</dict>
@@ -2931,7 +2927,7 @@
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 				<key>background</key>
-				<string>#FFFFFF1F</string>
+				<string>#FFFFFF0F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2992,7 +2988,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold italic</string>
+				<string>bold  italic</string>
 				<key>foreground</key>
 				<string>#ff599eff</string>
 			</dict>
@@ -3386,7 +3382,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1e1e1eff</string>
+				<string>#1E1E1E</string>
 				<key>foreground</key>
 				<string>#8585ffff</string>
 			</dict>
@@ -3410,7 +3406,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#191919ff</string>
+				<string>#191919</string>
 				<key>foreground</key>
 				<string>#c8f07cff</string>
 			</dict>
