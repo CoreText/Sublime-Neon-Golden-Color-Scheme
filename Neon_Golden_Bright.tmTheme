@@ -87,7 +87,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8080FF</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -478,10 +478,10 @@
 			<string>support.function.builtin</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#e8a8ffff</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1207,7 +1207,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold italic</string>
+				<string>bold  italic</string>
 				<key>foreground</key>
 				<string>#ff75c1ff</string>
 			</dict>
@@ -2992,7 +2992,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold italic</string>
+				<string>bold  italic</string>
 				<key>foreground</key>
 				<string>#ff599eff</string>
 			</dict>
