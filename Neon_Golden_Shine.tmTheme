@@ -30,13 +30,13 @@
 				<key>foreground</key>
 				<string>#ffffffff</string>
 				<key>guide</key>
-				<string>#191919</string>
+				<string>#232323</string>
 				<key>inactiveSelection</key>
 				<string>#333379ff</string>
 				<key>invisibles</key>
 				<string>#04ff03ff</string>
 				<key>lineHighlight</key>
-				<string>#191919</string>
+				<string>#232323</string>
 				<key>searchHighlight</key>
 				<string>#0205FF</string>
 				<key>selection</key>
@@ -608,7 +608,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#00047bff</string>
+				<string>#0000FFff</string>
 				<key>foreground</key>
 				<string>#e9ff07ff</string>
 			</dict>
@@ -630,7 +630,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#00047bff</string>
+				<string>#0000FFff</string>
 				<key>foreground</key>
 				<string>#e9ff07ff</string>
 			</dict>
@@ -678,7 +678,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#00047bff</string>
+				<string>#FF0080ff</string>
 				<key>foreground</key>
 				<string>#e9ff07ff</string>
 			</dict>
@@ -1311,7 +1311,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#00047bff</string>
+				<string>#0000FFff</string>
 				<key>foreground</key>
 				<string>#e9ff07ff</string>
 			</dict>
@@ -1592,7 +1592,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#00047bff</string>
+				<string>#0000FFff</string>
 				<key>foreground</key>
 				<string>#e9ff07ff</string>
 			</dict>
